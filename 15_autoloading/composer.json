@@ -1,0 +1,17 @@
+{
+  "name": "luqman/15_autoloading",
+  "authors": [
+    {
+      "name": "luqman",
+      "email": "luqmanahmad5149@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "./app"
+    }
+  }
+}

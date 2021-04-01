@@ -1,0 +1,15 @@
+{
+  "name": "luqman/03_good",
+  "authors": [
+    {
+      "name": "luqman",
+      "email": "luqmanahmad5149@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  }
+}
